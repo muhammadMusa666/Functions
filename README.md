@@ -1,0 +1,3 @@
+# Welcome, To This New Section, Where We Will Learn More About Functions, Go Deeper Into Functions, Functions Are A Crucial Part Of JavaScript Coding, And This Section Will Help You Dig Into Them Further, So I Hope You Successfully Learned And Passed The Previous Sections, Add Hopefully Didnt Skip Anything Important, Preferably Not Anything At All, But At The Very Least Helped You Learn Something Somehow Someway, And I Hope You Learn Something From This And Future Section, Best Of Luck, I Wish You The Best.
+
+# Made With Love By Musa!
