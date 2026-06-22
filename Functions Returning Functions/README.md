@@ -1,0 +1,3 @@
+# Today We Will Be Learning About Functions Returning Functions, This Is A Very Small Subrepo, Just How Most Of Us Like It😅, And Its Relatively Important, It Also Contains A Challenge Even Though Its A Relatively Small Subrepo😉, I Think You'll Learn Something And Enjoy This A Little Bit, Since I Dont Actually Know If You Enjoy This, Learning With Me, I Dont Even Know If Anyone Has Been Reading And Learning From Me Either, I Just Hope Thats The Case, But Enough Breaking The Fourth Wall, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
