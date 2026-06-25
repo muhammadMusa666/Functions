@@ -1,0 +1,3 @@
+# Today We Will Be Learning About The Bind Method Specifically, This Was A Very Large Subrepo, Due To The Modifications Of The Call And Apply Codes I Did Which Are Different From The Ones In The Previous Subrepo, But This Was Made So You Learn More About The Bind Method And Something Important Known As "Partial Applciation", But Anywho, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
