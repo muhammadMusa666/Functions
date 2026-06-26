@@ -1,0 +1,3 @@
+# Today We Will Learning About Immediately Invoked Function Expressions(IIFE), This Is A Short Subrepo, And The Topic Isnt Very Hard To Understand, While Its Not Used That Widly Anymore, If You Dont Get The Point, Or Think It Isnt Good, You Dont Need To Use It, While Its Still Important To Know, Besides, You Should Be Developing Your Own Coding Style, Anywho, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
