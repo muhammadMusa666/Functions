@@ -1,0 +1,3 @@
+# Today We Will Learning About Closures, One Of The Hardest Topics To Learn About In JavaScript According To Most People, Some Developers Also Have Difficulty In Fully Understanding This, And  To Learn About Them More, You'll Need To Search The Web, Ask AI, Watch Videos, Ask Any Friends That Are Developers For Tips, And More, Since This Subrepo Will DEFINITELY Not Be Enough To Learn Closures, If Youve Been Learning From Me And Know How The Past Topics Work, You'll Have An Easier Time Learning Closures, But Still Not Enough, So I Wish You Are Able To Somehow Do So, Then Continue, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
