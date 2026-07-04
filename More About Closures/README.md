@@ -1,0 +1,3 @@
+# Today We Will Learning More About Closures, Specifically Their Examples Which Will Help You Distingish And Understand More About Closures, If You Give AIs These Examples Ive Shown You They'll Give You A Better Detailed Definition, Specific And Other Imporant Things About Closures Relating To Other Things Aswell, Like The Call Stack, And Scope Chain, But Now, Let Me Know If Any Errors Occur, I Hope U Like It!
+
+# Made With Love By Musa!
